@@ -10,5 +10,7 @@ public class SimpleTest {
 	// instance Variable
 	String testVar;
 	
-
+	public static void main(String[] args) {
+		System.out.println("Some chnages here also");
+	}
 }
